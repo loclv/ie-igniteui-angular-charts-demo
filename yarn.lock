@@ -4477,6 +4477,20 @@ iferr@^0.1.5:
   resolved "https://registry.yarnpkg.com/iferr/-/iferr-0.1.5.tgz#c60eed69e6d8fdb6b3104a1fcbca1c192dc5b501"
   integrity sha1-xg7taebY/bazEEofy8ocGS3FtQE=
 
+igniteui-angular-charts@^11.1.1:
+  version "11.1.1"
+  resolved "https://registry.yarnpkg.com/igniteui-angular-charts/-/igniteui-angular-charts-11.1.1.tgz#5b6b040d3774282abf338f728e466a0c9eacf2b5"
+  integrity sha512-JVPRzvnGD2jKY4YISxVrwCU8M/E1/stVwWloZWOaJbamJcAwjKX9brwDTmPX43aNj73uI0+n0KvEOG/EwedP/w==
+  dependencies:
+    tslib "^1.7.1"
+
+igniteui-angular-core@^11.1.1:
+  version "11.1.1"
+  resolved "https://registry.yarnpkg.com/igniteui-angular-core/-/igniteui-angular-core-11.1.1.tgz#b5099a2b313266c24bb0a44652657b813970577a"
+  integrity sha512-6uGjtvPHq2twGXaXgXHWaL0MabsOaLN6u4n0IhHcosXnh64U45JOcdTJ8tqE8uK7oMF+JnxacFtsEZCadpxeyg==
+  dependencies:
+    tslib "^1.7.1"
+
 ignore-walk@^3.0.3:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/ignore-walk/-/ignore-walk-3.0.3.tgz#017e2447184bfeade7c238e4aefdd1e8f95b1e37"
@@ -8446,7 +8460,7 @@ tslib@2.1.0, tslib@^2.0.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.1.0.tgz#da60860f1c2ecaa5703ab7d39bc05b6bf988b97a"
   integrity sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==
 
-tslib@^1.10.0, tslib@^1.13.0, tslib@^1.8.1, tslib@^1.9.0:
+tslib@^1.10.0, tslib@^1.13.0, tslib@^1.7.1, tslib@^1.8.1, tslib@^1.9.0:
   version "1.14.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
